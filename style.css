@@ -1,0 +1,29 @@
+.main{
+    margin-top: -50px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    border-top: #fd7e14 3px solid;
+}
+body{
+    background-color: rgb(235, 235, 235);
+    
+}
+.bgf{
+  filter: blur(px);
+  background-image: url(img/IMAGE/faux-plafond-meuble.webp);
+  background-size:contain;
+  background-attachment: fixed;
+  backdrop-filter: 10px;
+  height: 200px;
+}
+.cercle{
+    border: #fd7e14 3px solid;
+    border-radius: 200px; width: 150px; height: 150px; 
+    margin-top:-80px;
+    background-color: darkslategrey;
+}
+
+.moi{
+    
+}
